@@ -1,3 +1,4 @@
+# Heroku tiene una funconalidad que hace que las aplicaciones deployeadas ahí se pongan en modo "asleep" después de un tiempo, en caso de no poder revisar la aplicación es por este motivo, por eso al final de este README se incluyen imágenes de como funciona la aplicación.   
 # Proyecto con React
 ## Datos:
 #### Alumno: Sebastián Aliaga
